@@ -1,4 +1,6 @@
-
+ body{
+    background-color: aquamarine;
+ }
     .main{
         /* margin: 3%; */
         margin-left: 5%;
